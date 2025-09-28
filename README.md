@@ -5,6 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Mxmzeed)
 
+![Mxmzeed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mxmzeed&theme=vue-dark&hide_border=false)
 <!--
 **Mxmzeed/Mxmzeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
