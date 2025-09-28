@@ -1,4 +1,7 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">hi there! 👋 i'm <a href="https://mxmzed.dev" target=blank>mx</a> </h1>
+<h3 align="center">just a developer who likes making cool things.</h3>
+
+<p>Still working on my readme... </p>
 
 ![](https://komarev.com/ghpvc/?username=Mxmzeed)
 
