@@ -1,5 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
+![](https://komarev.com/ghpvc/?username=Mxmzeed)
+
 <!--
 **Mxmzeed/Mxmzeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
