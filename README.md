@@ -4,4 +4,4 @@
 
 <h3 align="center">just a dev who likes feeling like tony stark.</h3>
 
-<p>Currently working on: The Sage Project.</p>
+<p align="cemter">Currently working on: The Sage Project.</p>
