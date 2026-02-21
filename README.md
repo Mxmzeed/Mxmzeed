@@ -6,5 +6,5 @@
 
 <p align="center">currently working on: caitlinn.</p>
 
-<h4 align="center">about me<h4>
+<h4>about me: <h4>
 <p>i'm a self-taught software developer located in montreal. i work on creating intelligent, wide-scoped systems to optimize workflows for individuals. contact me if you need anything done!</p>
